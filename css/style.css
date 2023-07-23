@@ -53,3 +53,76 @@ button{
 .selbtn:hover {
 	box-shadow:1px 1px 1px #DCDCDC;
 }
+.topbtn {
+	border:none;
+	padding:10px;
+	padding-left:35px;
+	padding-right:35px;
+	border-radius:4px;
+	background-color:#1a73e8;
+	cursor:pointer;
+	color:#fff;
+	float: right;
+}
+.topbtn:hover {
+	box-shadow:0px;
+}
+	
+.Surlogo {
+	margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+.SurMain {
+    display: flex;
+    z-index: 3;
+    min-height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    width: auto;
+    max-width: 584px;
+}
+
+.SS {
+	width:100%;
+}
+
+.SSK {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 14px;
+
+	
+
+}
+
+.SurMain:hover {
+	box-shadow:0 1px 5px #CCC;
+}
+
+.CcAdNb{
+		 margin:auto
+		 }
+		 
+.QCzoEc{
+		 margin-top:3px;
+		 color:#9aa0a6
+		 }
+
+
+.z1asCe {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+
